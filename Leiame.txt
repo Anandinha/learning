@@ -9,7 +9,7 @@ Lalalaa
 git show 
 git log
 git status
-git diff mostra mudancas
+git diff mostra mudancas antes de add
 git diff --name only--
 git commit -m "Mensagem"
 git add arquivo.txt
