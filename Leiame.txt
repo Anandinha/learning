@@ -2,4 +2,5 @@
 
 Leia-me
 
-Este 'e um repositorio teste para ensinar como git funciona.
+Este e um repositorio teste para ensinar como Git funciona.
+Lalalaa
