@@ -1,21 +1,47 @@
 # Git Course
 
-Leia-me
+git config user.name
+Ananda Aguiar
 
-Este e um repositorio teste para ensinar como Git funciona.
-Lalalaa
+git confir user.email
+...
 
+git config core.editor "Nome do editor"
 
+git config --list
+
+mkdir git-course
+
+cd git-course
+
+git init
+
+ls -la
+
+git status
+
+*No windows criei no notepad:
+echo "Mensagem" > arquivo.txt
+
+git add Arquivo.extensao
+
+git commit -m "mensagem"
+
+OUTROS COMANDOS:
 git show 
 git log
-git status
 git diff mostra mudancas antes de add
 git diff --name only--
 git commit -m "Mensagem"
 git add arquivo.txt
 
-
-github 
+REPOSITORIO REMOTO:
 
 git remove add origin <address>
 git push origin master
+
+GIT STASH
+guarda modificacoes antes de commit
+git stash
+git stash list
+git stash clear
