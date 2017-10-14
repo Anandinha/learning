@@ -18,3 +18,4 @@ git add arquivo.txt
 github 
 
 git remove add origin <address>
+git push origin master
