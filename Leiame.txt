@@ -4,3 +4,9 @@ Leia-me
 
 Este e um repositorio teste para ensinar como Git funciona.
 Lalalaa
+
+
+git show 
+git log
+git status
+git diff
