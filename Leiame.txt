@@ -14,3 +14,7 @@ git diff --name only--
 git commit -m "Mensagem"
 git add arquivo.txt
 
+
+github 
+
+git remove add origin <address>
