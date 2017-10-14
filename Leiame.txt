@@ -1,0 +1,5 @@
+# Git Course
+
+Leia-me
+
+Este 'e um repositorio teste para ensinar como git funciona.
